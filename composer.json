@@ -1,0 +1,15 @@
+{
+    "name": "amrii/jenkin-pertama",
+    "autoload": {
+        "psr-4": {
+            "Amrii\\JenkinPertama\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amrina-ux",
+            "email": "amriina069@gmail.com"
+        }
+    ],
+    "require": {}
+}
